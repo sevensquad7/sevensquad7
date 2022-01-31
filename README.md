@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+- 🌱 I am currently learning and strengthening my knowledge as a developer
 <!--
 **zye7ert/zye7ert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +19,5 @@ Here are some ideas to get you started:
 
   <summary>:zap: GitHub Stats</summary>
 
-![zye7ert github stats](https://github-readme-stats.vercel.app/api?username=zye7ert&show_icons=true&theme=ayu-mirage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zye7ert&layout=compact&theme=ayu-mirage)
+![zye7ert github stats](https://github-readme-stats.vercel.app/api?username=zye7ert&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zye7ert&layout=compact&theme=dracula)
