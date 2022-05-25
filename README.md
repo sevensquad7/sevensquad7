@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
   <summary>:zap: GitHub Stats</summary>
 
-![zye7ert github stats](https://github-readme-stats.vercel.app/api?username=zye7ert&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zye7ert&layout=compact&theme=dracula)
+![sevensquad7 github stats](https://github-readme-stats.vercel.app/api?username=sevensquad7&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevensquad7&layout=compact&theme=dracula)
