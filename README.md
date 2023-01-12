@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
   <summary>:zap: GitHub Stats</summary>
 
 ![sevensquad7 github stats](https://github-readme-stats.vercel.app/api?username=sevensquad7&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevensquad7&layout=compact&theme=dracula)
+-->
