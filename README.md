@@ -5,12 +5,6 @@ I studied computing and information technology, networks and data communication,
 
 Previously I studied ***computing and informatics / networks and data communications***.
 
-## Skills and experience
-Low Level & Computer Science:
-- Assembly.
-- C Language (Binary trees, Hash Tables, own Shell, elf.h, assert.h, Python.h, Red-Black Trees, Graphs) | CPython
-- Python (Numpy, Fabric, TDD { unittest, doctest }, Scraping { Request, Selenium }, pyJWT, MySQL.connect, MySQLAlchemy).
-
 FullStack:
 - Frontend:
   - ReactJS, TypeScript.
